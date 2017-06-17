@@ -20,7 +20,7 @@ Przykład jak odczytywać dane:
 int main() {
 
 	AudioFile af_file;
-	if (af_file.Read("filename")) {
+	if (!af_file.Read("filename")) {
 		cout << "Audio error: " << af_file.GetErrorStr() << endl;
 	}
 	else {
