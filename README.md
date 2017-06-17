@@ -1,5 +1,9 @@
 # AudioFile
 
+<p align="center">
+<img src="http://i.imgur.com/dNweeQN.png" />
+</p>
+
 Ta biblioteka służąca do kodowania i dekodowania plików audio.
 
 # Obsługuje formaty takie jak:
